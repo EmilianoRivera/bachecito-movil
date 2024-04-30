@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Bachecito 26",
+    "slug": "Bachecito-26",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/IconoPagina.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.melyymix.prueba"
+    },
+    "web": {
+      "favicon": "./assets/icon2.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ea059a01-a6cd-42b3-a8e5-3dd22fbe1d1d"
+      }
+    }
+  }
+}
